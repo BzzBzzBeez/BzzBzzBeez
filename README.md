@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BzzBzzBeez
 - 👀 I’m interested in IT in general
 - 🌱 I’m currently learning Everything I can
-- 💞️ I’m looking to collaborate on multiple Projects
+- 💞️ I’m looking to build new things
 - 📫 How to reach me -> GitHub, @BzzBzzBeez
 
 <!---
